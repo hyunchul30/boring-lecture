@@ -23,10 +23,21 @@ ul{
   width: 300px;
 }
 .flashy {
+  color: red;
+  font-style: italic;
+}
+.flashy-ul {
   background-color: green;
 }
 
+.white{
+  color: white;
+}
 
-ul.red {
+.yellow{
+  color: yellow;
+}
 
+.green{
+  color: darkgreen;
 }

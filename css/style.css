@@ -13,5 +13,20 @@ p{
 ul{
   font-size: 20px;
   line-height:30px;
-  
+
+}
+.best{
+  background-color: red;
+}
+.best-img{
+  float:right;
+  width: 300px;
+}
+.flashy {
+  background-color: green;
+}
+
+
+ul.red {
+
 }

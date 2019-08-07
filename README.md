@@ -1,6 +1,6 @@
-# _Cupcake Shop Website_
+# _Boring Lecture Website_
 
-#### _Hired to build a cupcake shop website, 8/7/2019_
+#### _Hired to build a boring lecture website, 8/7/2019_
 
 #### By _**hyunchul & Vera Weikel**_
 
@@ -11,10 +11,9 @@ _A project to create and build a cupcake shop website according to specs:_
 
 * A main home page
 Pages with:
-- images, text and links.
-- Create a new website for a cupcake shop. Your site should have images, text and links. Be creative!
-- Pick three HTML elements and give them a class called flashy, and create a CSS rule to make them red and italic.
-- Create a class called best and add it to the most popular cupcake featured on your site. Apply a style of your choice to make it stand out.
+- Create a new project called boring-lecture.html that is a fake page about a boring subject of your choice. Use lorem ipsum text to fill up the page using <p> tags.
+- Create a section of the page at the beginning for an introduction to the lecture; in that intro, include a <h2> subheading, a paragraph or two, and a picture. Give each of these elements the class intro.
+- Create CSS rules for h2.intro, p.intro, and img.intro. Remember that in CSS, classes are prefaced with a .
 
 ## Setup/Installation Requirements
 
